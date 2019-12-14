@@ -131,3 +131,7 @@ input[type=submit]:hover {
   display: table;
   clear: both;
 }
+
+#sticky-footer {
+  clear: both;
+}
