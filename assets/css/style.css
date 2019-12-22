@@ -97,27 +97,27 @@ body {
 
  
   /* PORTFOLIO PAGE */
-
+.centered {
+  margin: 0 auto;
+  width: auto;
+}
 .page-container{
   overflow: auto;
   height: 100%;
   justify-content: center;
+  
 }
 .picbox {
   float: left;
-  /* padding: 20px;
-  width: 250px;
-  height: 250px;
-  
-  padding-bottom: 10px;  */
+  padding-left: 0px;
   position: relative;
-  margin-right: 15px;
-  margin-bottom: 15px;
+  /* margin-right: 15px;
+  margin-bottom: 15px; */
+  
 
 }
 .capbox {
-
-  color: #ffffff;
+color: #ffffff;
 padding: 0px;
 background-color: #4aaaa5;
 width: 100%;
