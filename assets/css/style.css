@@ -110,9 +110,10 @@ body {
 .picbox {
   float: left;
   padding-left: 0px;
+  padding-right: 0px;
   position: relative;
-  /* margin-right: 15px;
-  margin-bottom: 15px; */
+  margin-right: 15px;
+  margin-bottom: 15px;
   
 
 }
@@ -128,6 +129,11 @@ padding-bottom: 10px;
 }
 
 /* CONTACT PAGE */
+.profile-pic {
+  margin-left: 20px;
+  margin-right: 50px;
+}
+
 input[type=text], select, textarea {
   width: 100%;
   padding: 12px;
